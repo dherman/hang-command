@@ -1,0 +1,8 @@
+{
+  "name": "hang-command",
+  "version": "0.1.0",
+  "description": "minimal example of hanging Command in Windows",
+  "main": "index.js",
+  "author": "Dave Herman",
+  "license": "MIT"
+}

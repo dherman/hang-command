@@ -1,0 +1,6 @@
+[package]
+name = "hang-command"
+version = "0.1.0"
+authors = ["Dave Herman <dherman@mozilla.com>"]
+
+[dependencies]
